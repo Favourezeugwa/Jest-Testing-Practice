@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "A few practical tests for JavaScript functions using the Jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Favourezeugwa/Jest-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Favourezeugwa/Jest-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/Favourezeugwa/Jest-Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
