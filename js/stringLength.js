@@ -1,8 +1,10 @@
+
 const stringLength = (string) => {
-   if (string.lemgth < 1 || string.length > 10) {
+  if(string.length > 0 && string.length < 10) {
+     return string.length
+   } else {
      return 'This is an Error'
    }
-   return string.length
 }
 
 
