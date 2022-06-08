@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1654650772942" clover="3.2.0">
-  <project timestamp="1654650772942" name="All files">
-    <metrics statements="25" coveredstatements="24" conditionals="16" coveredconditionals="14" methods="6" coveredmethods="6" elements="47" coveredelements="44" complexity="0" loc="25" ncloc="25" packages="1" files="3" classes="3"/>
+<coverage generated="1654652539365" clover="3.2.0">
+  <project timestamp="1654652539365" name="All files">
+    <metrics statements="28" coveredstatements="27" conditionals="16" coveredconditionals="14" methods="7" coveredmethods="7" elements="51" coveredelements="48" complexity="0" loc="28" ncloc="28" packages="1" files="4" classes="4"/>
     <file name="calculator.js" path="C:\Users\user\Jest-Testing-Practice\js\calculator.js">
       <metrics statements="14" coveredstatements="13" conditionals="12" coveredconditionals="10" methods="4" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
@@ -18,6 +18,12 @@
       <line num="20" count="0" type="stmt"/>
       <line num="22" count="4" type="stmt"/>
       <line num="27" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="C:\Users\user\Jest-Testing-Practice\js\capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
     </file>
     <file name="reverseString.js" path="C:\Users\user\Jest-Testing-Practice\js\reverseString.js">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
