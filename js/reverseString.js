@@ -4,10 +4,10 @@
 
 const reverseString = (string) => {
   let newString = '';
-  for(let i = string.length -1; i >= 0; i--) {
-    newString += string[i]
+  for (let i = string.length - 1; i >= 0; i -= 1) {
+    newString += string[i];
   }
-  return newString
-}
+  return newString;
+};
 
-module.exports = reverseString
+module.exports = reverseString;
