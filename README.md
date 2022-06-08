@@ -10,7 +10,7 @@ The aim of this exercise is to tests for JavaScript functions using the Jest lib
 
 - Jest Library
 - JavaScript(ES6)
-- Jest coverage
+- Jest coverage(optional)
 
 ### Prerequisites
 
@@ -22,7 +22,7 @@ The aim of this exercise is to tests for JavaScript functions using the Jest lib
 
 ### Setup
 
-- Jest library and Jest coverage
+- Jest library and Jest coverage(optional)
 - Git bash (optional: vscode gitbash terminal)
 
 ### Install
