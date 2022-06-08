@@ -5,5 +5,4 @@ test('first character is capitalized', () => {
   expect(capitalize('favour')).toBe('Favour')
   expect(capitalize('amarachi')).not.toEqual('amarachi')
   expect(capitalize('microverse')).not.toBe('microverse')
-
 })
