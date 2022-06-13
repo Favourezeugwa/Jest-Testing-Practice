@@ -14,7 +14,7 @@ The aim of this exercise is to tests for JavaScript functions using the Jest lib
 
 ### Prerequisites
 
-- In the repository, copy the `SSH` code snippet for Awesome-book-2
+- In the repository, copy the `SSH` code snippet for Jest-Testing-Practice.
 - clone into the repository by using `git clone` in the git bash terminal
 - cd into the repository `cd Jest-Testing-Practice`
 - open VScode terminal `code .`
